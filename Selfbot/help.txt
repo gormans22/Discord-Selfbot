@@ -1,0 +1,1 @@
+If you get an error like " moduel not found " or any retarded shit like that then pip install then that moduel. if you need help with anything dm dolphin#2364 on discord for help.

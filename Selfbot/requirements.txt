@@ -1,0 +1,9 @@
+pip and discord. you will need the moduels: webhooks, discord, asyncio, aiohttp, datetime, requests, colorama, functools, and gtts.
+
+to install these you will need pip.
+
+you will install these by doing: pip install (moduel)
+ex. pip install asyncio
+you will do that in your terminal/cmd
+
+Recommended version of python is 3.7
